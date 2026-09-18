@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered study companion helps university engineering students in Kenya by providing instant answers, interactive visuals, and personalized learning tools.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
